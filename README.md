@@ -5,7 +5,7 @@
 Instalación del IDE Antigravity en el sistema operativo.
 
 ### 2. Personalización de IDE
-Instalación de las extensiones necesarias para el uso de VUE (Prettier - Code formatter).
+Instalación de extensiones opcionales.
 
 ### 3. Configura entorno VUE
 Creación y lanzamiento del proyecto por defecto (un contador que empieza en cero y cuenta los clics).
